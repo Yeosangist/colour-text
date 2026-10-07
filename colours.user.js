@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @description  Highlights color words using their actual colors.
 // @author       Yeosangist
-// @license      CC BY-NC-SA
+// @license      GPLv3
 // @match        *://*/*
 // @run-at       document-start
 // @grant        none
